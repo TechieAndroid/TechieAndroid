@@ -1,5 +1,5 @@
 ### Skills
-![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&logo=Github&style=for-the-badge&color=16a085)
+![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=techieandroid&logo=Github&style=for-the-badge&color=16a085)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 Webservers:
