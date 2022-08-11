@@ -1,5 +1,6 @@
 ### Skills
 ![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=techieandroid&logo=Github&style=for-the-badge&color=16a085)
+![Followers](https://custom-icon-badges.herokuapp.com/github/followers/techieandroid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 Webservers:
