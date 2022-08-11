@@ -3,7 +3,7 @@
 ![Stars](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/techieandroid)
 ![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=techieandroid&logo=Github&style=for-the-badge&color=16a085)
 ![Followers](https://custom-icon-badges.herokuapp.com/github/followers/techieandroid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.vflared.com)
+![LinkedIn](www.vflared.com https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 Webservers:<br>
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
