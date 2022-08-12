@@ -14,9 +14,9 @@ My Servers:<br>
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
+![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-100000?style=for-the-badge&logo=Jellyfin&logoColor=FFFFFF&labelColor=560076&color=560076)
 ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
-![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 
 Containers:<br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -24,6 +24,7 @@ Containers:<br>
 
 Virtual Machines:<br>
 ![VMware](https://img.shields.io/badge/VMware-100000?style=for-the-badge&logo=VMware&logoColor=FFFFFF&labelColor=000000&color=000000)
+![VirtualBox](https://img.shields.io/badge/Virtualbox-100000?style=for-the-badge&logo=virtualbox&logoColor=FFFFFF&labelColor=4F61FF&color=4F61FF)
 
 Linux Experience:<br>
 ![Gentoo](https://img.shields.io/badge/Gentoo-100000?style=for-the-badge&logo=Gentoo&logoColor=FFFFFF&labelColor=F05FDC&color=F05FDC)
