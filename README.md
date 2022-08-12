@@ -23,7 +23,7 @@ Containers:<br>
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 Linux Experience:<br>
-!Gentoo
+![Gentoo](https://img.shields.io/badge/Gentoo-100000?style=for-the-badge&logo=Gentoo&logoColor=FFFFFF&labelColor=F05FDC&color=F05FDC)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
