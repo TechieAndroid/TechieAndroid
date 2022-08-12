@@ -22,6 +22,9 @@ Containers:<br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+Virtual Machines:<br>
+![VMware](https://img.shields.io/badge/UNIX-100000?style=for-the-badge&logo=vmware&logoColor=FFFFFF&labelColor=000000&color=000000)
+
 Linux Experience:<br>
 ![Gentoo](https://img.shields.io/badge/Gentoo-100000?style=for-the-badge&logo=Gentoo&logoColor=FFFFFF&labelColor=F05FDC&color=F05FDC)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
