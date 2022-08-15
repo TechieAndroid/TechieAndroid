@@ -9,9 +9,9 @@
               `.              ,  \ \ /  |  Currently working at a MSP in Ohio.
                /`.          ,'-`----Y   |  Below is a collection of most of my skills. :D
               (            ;        |   '
-              |  ,-.    ,-'         |  /
-              |  | (   |            | /
-              )  |  \  `.___________|/
+              |  ,-.    ,-'         |  /   "In every library there is a single book
+              |  | (   |            | /    that can answer the question that burns
+              )  |  \  `.___________|/     like a fire in the mind." -LS
               `--'   `--'
 ```
 #### Stats & Contact Info:
