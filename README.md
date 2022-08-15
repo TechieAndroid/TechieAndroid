@@ -4,7 +4,7 @@
 ![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=techieandroid&logo=Github&style=for-the-badge&color=16a085)
 ![Followers](https://custom-icon-badges.herokuapp.com/github/followers/techieandroid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white)
 
-<a href='www.linkedin.com/in/akilgore98' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C6FFF&color=2C6FFF'/></a>
+<a href='https://www.linkedin.com/in/akilgore98' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C6FFF&color=2C6FFF'/></a>
 <a href='mailto:vflared@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=CD1010&color=CD1010'/></a>
 
 Main OSes:<br>
@@ -107,7 +107,7 @@ Studying currently:<br>
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 
 Support me:<br>
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+<a href='https://paypal.me/LinuxOwl' target="_blank"><img alt='paypal' src='https://img.shields.io/badge/paypal-100000?style=for-the-badge&logo=paypal&logoColor=white&labelColor=1B56D7&color=1B56D7'/></a>
 
 
 <!--
