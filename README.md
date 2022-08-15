@@ -1,6 +1,19 @@
 ## :wave: Hi there! Welcome to my Github profile!
 <!-- badge website: https://shivamkapasia-developer-edition.ap16.force.com/Badges4Me/s/ -->
-
+```
+                                     ,
+              ,-.       _,---._ __  / \
+             /  )    .-'       `./ /   \
+            (  (   ,'            `/    /|  I love cats, Gentoo, retro games, 
+             \  `-"             \'\   / |  playing with servers and learning new stuff.
+              `.              ,  \ \ /  |  Currently working at a MSP in Ohio.
+               /`.          ,'-`----Y   |  Below is a collection of most of my skills. :D
+              (            ;        |   '
+              |  ,-.    ,-'         |  /
+              |  | (   |            | /
+              )  |  \  `.___________|/
+              `--'   `--'
+```
 #### Stats & Contact Info:
 ![Stars](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/techieandroid)
 ![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=techieandroid&logo=Github&style=for-the-badge&color=16a085)
