@@ -3,9 +3,9 @@
 ```
                                      ,
               ,-.       _,---._ __  / \
-             /  )    .-'       `./ /   \
-            (  (   ,'            `/    /|  I love cats, Gentoo, retro games, 
-             \  `-"             \'\   / |  playing with servers and learning new stuff.
+             /  )    .-'       `./ /   \   I love cats, Gentoo, retro games, 
+            (  (   ,'            `/    /|  playing with servers and learning new stuff.
+             \  `-"             \'\   / |  
               `.              ,  \ \ /  |  Currently working at a MSP in Ohio.
                /`.          ,'-`----Y   |  Below is a collection of most of my skills. :D
               (            ;        |   '
