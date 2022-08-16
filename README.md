@@ -43,6 +43,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 <br>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='windows' src='https://img.shields.io/badge/hyper_v-100000?style=for-the-badge&logo=windows&logoColor=white&labelColor=2058FF&color=2058FF'/></a>
 ![VMware](https://img.shields.io/badge/VMware-100000?style=for-the-badge&logo=VMware&logoColor=FFFFFF&labelColor=000000&color=000000)
 ![VirtualBox](https://img.shields.io/badge/Virtualbox-100000?style=for-the-badge&logo=virtualbox&logoColor=FFFFFF&labelColor=4F61FF&color=4F61FF)
 #### Cloud Experience:<br>
