@@ -1,18 +1,18 @@
 ## :wave: Hi there! Welcome to my Github profile!
 <!-- badge website: https://shivamkapasia-developer-edition.ap16.force.com/Badges4Me/s/ -->
 ```
-                                     ,
-              ,-.       _,---._ __  / \
-             /  )    .-'       `./ /   \   I love cats, Gentoo, retro games, 
-            (  (   ,'            `/    /|  playing with servers and learning new stuff.
-             \  `-"             \'\   / |  
-              `.              ,  \ \ /  |  Currently working at a MSP in Ohio.
-               /`.          ,'-`----Y   |  Below is a collection of most of my skills. :D
-              (            ;        |   '
-              |  ,-.    ,-'         |  /   "In every library there is a single book
-              |  | (   |            | /    that can answer the question that burns
-              )  |  \  `.___________|/     like a fire in the mind." -LS
-              `--'   `--'
+                         ,
+  ,-.       _,---._ __  / \
+ /  )    .-'       `./ /   \   I love cats, Gentoo, retro games, 
+(  (   ,'            `/    /|  playing with servers and learning new stuff.
+ \  `-"             \'\   / |  
+  `.              ,  \ \ /  |  Currently working at a MSP in Ohio.
+   /`.          ,'-`----Y   |  Below is a collection of most of my skills. :D
+  (            ;        |   '
+  |  ,-.    ,-'         |  /   "In every library there is a single book
+  |  | (   |            | /    that can answer the question that burns
+  )  |  \  `.___________|/     like a fire in the mind." -LS
+  `--'   `--'
 ```
 #### Stats & Contact Info:
 ![Stars](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/techieandroid)
