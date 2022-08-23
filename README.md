@@ -21,7 +21,11 @@
 <br>
 <a href='https://www.linkedin.com/in/akilgore98' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C6FFF&color=2C6FFF'/></a>
 <a href='mailto:vflared@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=CD1010&color=CD1010'/></a>
+<br>
+
+#### Like my stuff? Buy me a boba tea! 🧋❤️
 <a href='https://paypal.me/LinuxOwl' target="_blank"><img alt='paypal' src='https://img.shields.io/badge/paypal-100000?style=for-the-badge&logo=paypal&logoColor=white&labelColor=1B56D7&color=1B56D7'/></a>
+
 #### Studying currently:<br>
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -107,6 +111,8 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+
 
 <!--**TechieAndroid/TechieAndroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
