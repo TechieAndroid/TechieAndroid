@@ -34,6 +34,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <a href='' target="_blank"><img alt='apple' src='https://img.shields.io/badge/mac-100000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000&color=000000'/></a>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='BSD' src='https://img.shields.io/badge/BSD-100000?style=for-the-badge&logo=BSD&logoColor=000000&labelColor=000000&color=860008'/></a>
 #### My Servers:<br>
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -41,14 +42,24 @@
 <br>
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Softether' src='https://img.shields.io/badge/Softether-100000?style=for-the-badge&logo=Softether&logoColor=000000&labelColor=000000&color=3EFFA5'/></a>
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-100000?style=for-the-badge&logo=Jellyfin&logoColor=FFFFFF&labelColor=560076&color=560076)
 ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
+<br>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Transmission' src='https://img.shields.io/badge/Transmission-100000?style=for-the-badge&logo=Transmission&logoColor=000000&labelColor=000000&color=FF4040'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Sonarr' src='https://img.shields.io/badge/Sonarr-100000?style=for-the-badge&logo=Sonarr&logoColor=000000&labelColor=black&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Radarr' src='https://img.shields.io/badge/Radarr-100000?style=for-the-badge&logo=Radarr&logoColor=000000&labelColor=000000&color=FFB93E'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Jackett' src='https://img.shields.io/badge/Jackett-100000?style=for-the-badge&logo=Jackett&logoColor=000000&labelColor=000000&color=3E95FF'/></a>
 #### Containers & Virtual Machines:<br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 <br>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='windows' src='https://img.shields.io/badge/hyper_v-100000?style=for-the-badge&logo=windows&logoColor=white&labelColor=2058FF&color=2058FF'/></a>
 ![VMware](https://img.shields.io/badge/VMware-100000?style=for-the-badge&logo=VMware&logoColor=FFFFFF&labelColor=000000&color=000000)
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='ESXI' src='https://img.shields.io/badge/ESXI-100000?style=for-the-badge&logo=ESXI&logoColor=000000&labelColor=000000&color=FF642C'/></a>
+<br>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Proxmox' src='https://img.shields.io/badge/Proxmox-100000?style=for-the-badge&logo=Proxmox&logoColor=FFFFFF&labelColor=C35858&color=C35858'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='QEMU' src='https://img.shields.io/badge/QEMU-100000?style=for-the-badge&logo=QEMU&logoColor=FFFFFF&labelColor=C03705&color=C03705'/></a>
 ![VirtualBox](https://img.shields.io/badge/Virtualbox-100000?style=for-the-badge&logo=virtualbox&logoColor=FFFFFF&labelColor=4F61FF&color=4F61FF)
 #### Cloud Experience:<br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
