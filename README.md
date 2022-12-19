@@ -1,5 +1,6 @@
 ## :wave: Hi there! Welcome to my Github profile!
 <!-- badge website: https://shivamkapasia-developer-edition.ap16.force.com/Badges4Me/s/ -->
+<!-- ![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=techieandroid&logo=Github&style=for-the-badge&color=16a085) -->
 ```
                          ,
   ,-.       _,---._ __  / \
@@ -16,12 +17,14 @@
 ```
 #### Stats & Contact Info:
 ![Stars](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/techieandroid)
-![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=techieandroid&logo=Github&style=for-the-badge&color=16a085)
 ![Followers](https://custom-icon-badges.herokuapp.com/github/followers/techieandroid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white)
 <br>
 <a href='https://www.linkedin.com/in/akilgore98' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C6FFF&color=2C6FFF'/></a>
 <a href='mailto:vflared@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=CD1010&color=CD1010'/></a>
+<a href='https://github.com/TechieAndroid/TechieAndroid/blob/main/Resume.pdf' target="_blank"><img alt='Read the Docs' src='https://img.shields.io/badge/Resume-100000?style=for-the-badge&logo=Read the Docs&logoColor=white&labelColor=7E6DFF&color=7E6DFF'/></a>
 <br>
+
+
 
 #### Like my stuff? Buy me a boba tea! 🧋❤️
 <a href='https://paypal.me/LinuxOwl' target="_blank"><img alt='paypal' src='https://img.shields.io/badge/paypal-100000?style=for-the-badge&logo=paypal&logoColor=white&labelColor=1B56D7&color=1B56D7'/></a>
