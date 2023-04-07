@@ -126,7 +126,8 @@
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-
+### Microsoft Certifications:<br>
+https://github.com/TechieAndroid/TechieAndroid/blob/main/Microsoft%20365%20Certified:%20Enterprise%20Administrator%20Expert/Courses.md
 
 
 
