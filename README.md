@@ -21,7 +21,7 @@
 <br>
 <a href='https://www.linkedin.com/in/akilgore98' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C6FFF&color=2C6FFF'/></a>
 <a href='mailto:vflared@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=CD1010&color=CD1010'/></a>
-<a href='https://github.com/TechieAndroid/TechieAndroid/blob/main/Resume.pdf' target="_blank"><img alt='Read the Docs' src='https://img.shields.io/badge/Resume-100000?style=for-the-badge&logo=Read the Docs&logoColor=white&labelColor=7E6DFF&color=7E6DFF'/></a>
+<a href='https://github.com/TechieAndroid/TechieAndroid/blob/main/Austin Kilgore Resume Current.pdf' target="_blank"><img alt='Read the Docs' src='https://img.shields.io/badge/Resume-100000?style=for-the-badge&logo=Read the Docs&logoColor=white&labelColor=7E6DFF&color=7E6DFF'/></a>
 <br>
 
 
