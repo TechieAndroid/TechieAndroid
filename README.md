@@ -4,11 +4,11 @@
 ```
                          ,
   ,-.       _,---._ __  / \
- /  )    .-'       `./ /   \   I love cats, Gentoo, retro games, 
+ /  )    .-'       `./ /   \   I love cats, Linux, retro games, 
 (  (   ,'            `/    /|  playing with servers and learning new stuff.
- \  `-"             \'\   / |  
-  `.              ,  \ \ /  |  Currently working at a MSP in Ohio.
-   /`.          ,'-`----Y   |  Below is a collection of most of my skills. :D
+ \  `-"             \'\   / |  Below is a collection of most of my skills. :D
+  `.              ,  \ \ /  |  
+   /`.          ,'-`----Y   |  
   (            ;        |   '
   |  ,-.    ,-'         |  /   "In every library there is a single book
   |  | (   |            | /    that can answer the question that burns
