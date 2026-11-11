@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40" role="img" aria-label="divider">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#c2703d" stop-opacity="0"/><stop offset=".5" stop-color="#e8a33d"/><stop offset="1" stop-color="#c2703d" stop-opacity="0"/></linearGradient></defs>
+<style>
+.flow{stroke-dasharray:3 9;animation:flow 2.4s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-24}}
+.gem{transform-origin:600px 20px;animation:gem 4s ease-in-out infinite}
+@keyframes gem{0%,100%{transform:rotate(0) scale(1)}50%{transform:rotate(90deg) scale(1.25)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<path d="M0,24 C120,14 220,30 340,22 S520,12 580,20" fill="none" stroke="url(#g)" stroke-width="1.2"/>
+<path class="flow" d="M0,24 C120,14 220,30 340,22 S520,12 580,20" fill="none" stroke="url(#g)" stroke-width="2.4" stroke-linecap="round" opacity=".7"/>
+<path d="M620,20 C700,28 820,12 940,22 S1100,30 1200,18" fill="none" stroke="url(#g)" stroke-width="1.2"/>
+<path class="flow" d="M620,20 C700,28 820,12 940,22 S1100,30 1200,18" fill="none" stroke="url(#g)" stroke-width="2.4" stroke-linecap="round" opacity=".7"/>
+<path class="gem" d="M600,12 l8,8 l-8,8 l-8,-8z" fill="none" stroke="#e8a33d" stroke-width="1.4"/>
+<circle cx="600" cy="20" r="2" fill="#4fa3d9"/>
+</svg>

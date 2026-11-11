@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="wormsign: something moves beneath the sand">
+<defs><linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".12" stop-color="#fff"/><stop offset=".88" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><mask id="m"><rect width="1200" height="150" fill="url(#fade)"/></mask><linearGradient id="ground" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c2703d" stop-opacity=".55"/><stop offset="1" stop-color="#c2703d" stop-opacity="0"/></linearGradient></defs>
+<style>
+.travel{animation:travel 16s linear infinite}
+@keyframes travel{from{transform:translateX(-160px)}to{transform:translateX(1360px)}}
+.heave{transform-box:fill-box;transform-origin:50% 100%;animation:heave 1.6s ease-in-out infinite alternate}
+@keyframes heave{from{transform:scaleY(.82)}to{transform:scaleY(1.08)}}
+.dust{transform-box:fill-box;animation:dust ease-out infinite;opacity:0}
+@keyframes dust{0%{opacity:.9;transform:translate(0,0)}100%{opacity:0;transform:translate(-70px,-34px)}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 3.2s ease-out infinite;opacity:0}
+@keyframes ring{0%{opacity:.8;transform:scale(.4)}100%{opacity:0;transform:scale(1.6)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.travel{transform:translateX(600px)}}
+</style>
+<g mask="url(#m)">
+<path d="M-100.0,109.7 C26.0,109.7 71.8,112.1 129.0,112.1 C268.2,112.1 318.8,111.4 382.1,111.4 C520.0,111.4 570.1,101.4 632.8,101.4 C740.5,101.4 779.7,114.2 828.7,114.2 C948.5,114.2 992.1,113.6 1046.5,113.6 C1131.0,113.6 1161.7,107.6 1200.1,107.6 C1255.1,107.6 1275.0,108.6 1300.0,108.6 L1300,150 L-100,150 Z" fill="url(#ground)"/>
+<path d="M-100.0,109.7 C26.0,109.7 71.8,112.1 129.0,112.1 C268.2,112.1 318.8,111.4 382.1,111.4 C520.0,111.4 570.1,101.4 632.8,101.4 C740.5,101.4 779.7,114.2 828.7,114.2 C948.5,114.2 992.1,113.6 1046.5,113.6 C1131.0,113.6 1161.7,107.6 1200.1,107.6 C1255.1,107.6 1275.0,108.6 1300.0,108.6" fill="none" stroke="#c2703d" stroke-opacity=".7" stroke-width="1.2"/>
+<g class="travel">
+<path d="M-30,110 q14,-10 28,0" fill="none" stroke="#e8a33d" stroke-opacity="0.75" stroke-width="1.4"/>
+<path d="M-68,110 q14,-9 28,0" fill="none" stroke="#e8a33d" stroke-opacity="0.64" stroke-width="1.4"/>
+<path d="M-106,110 q14,-8 28,0" fill="none" stroke="#e8a33d" stroke-opacity="0.53" stroke-width="1.4"/>
+<path d="M-144,110 q14,-7 28,0" fill="none" stroke="#e8a33d" stroke-opacity="0.42" stroke-width="1.4"/>
+<path d="M-182,110 q14,-6 28,0" fill="none" stroke="#e8a33d" stroke-opacity="0.31" stroke-width="1.4"/>
+<path d="M-220,110 q14,-5 28,0" fill="none" stroke="#e8a33d" stroke-opacity="0.20" stroke-width="1.4"/>
+<ellipse class="ring" cx="0" cy="110" rx="46" ry="8" fill="none" stroke="#e8a33d" stroke-width="1" style="animation-delay:0.00s"/>
+<ellipse class="ring" cx="0" cy="110" rx="46" ry="8" fill="none" stroke="#e8a33d" stroke-width="1" style="animation-delay:-1.07s"/>
+<ellipse class="ring" cx="0" cy="110" rx="46" ry="8" fill="none" stroke="#e8a33d" stroke-width="1" style="animation-delay:-2.14s"/>
+<path class="heave" d="M-58,111 C-34,108 -22,84 0,82 C22,84 34,108 58,111 Z" fill="#a8642f"/>
+<path class="heave" d="M-40,111 C-24,109 -14,92 0,90 C14,92 24,109 40,111 Z" fill="#c2703d"/>
+<path d="M-30,96 q30,-14 60,0" fill="none" stroke="#f4c27a" stroke-opacity=".6" stroke-width="1"/>
+<circle class="dust" cx="17.4" cy="102.8" r="0.8" fill="#8a5a2b" style="animation-duration:1.56s;animation-delay:-0.79s"/>
+<circle class="dust" cx="-9.7" cy="87.6" r="1.4" fill="#e8a33d" style="animation-duration:1.04s;animation-delay:-0.82s"/>
+<circle class="dust" cx="28.4" cy="102.6" r="1.4" fill="#c2703d" style="animation-duration:0.93s;animation-delay:-1.24s"/>
+<circle class="dust" cx="34.4" cy="86.7" r="1.8" fill="#c2703d" style="animation-duration:1.41s;animation-delay:-1.47s"/>
+<circle class="dust" cx="-1.0" cy="86.4" r="1.8" fill="#8a5a2b" style="animation-duration:1.88s;animation-delay:-0.79s"/>
+<circle class="dust" cx="39.2" cy="97.7" r="1.1" fill="#c2703d" style="animation-duration:1.93s;animation-delay:-1.91s"/>
+<circle class="dust" cx="24.2" cy="97.8" r="0.8" fill="#c2703d" style="animation-duration:1.94s;animation-delay:-0.78s"/>
+<circle class="dust" cx="-20.6" cy="95.8" r="1.8" fill="#e8a33d" style="animation-duration:0.91s;animation-delay:-0.91s"/>
+<circle class="dust" cx="11.6" cy="96.5" r="1.8" fill="#c2703d" style="animation-duration:1.38s;animation-delay:-1.79s"/>
+<circle class="dust" cx="32.3" cy="89.9" r="0.8" fill="#8a5a2b" style="animation-duration:1.51s;animation-delay:-0.90s"/>
+<circle class="dust" cx="19.4" cy="90.3" r="1.1" fill="#e8a33d" style="animation-duration:1.52s;animation-delay:-0.90s"/>
+<circle class="dust" cx="21.5" cy="95.1" r="1.4" fill="#c2703d" style="animation-duration:1.30s;animation-delay:-1.53s"/>
+<circle class="dust" cx="-15.4" cy="100.5" r="1.8" fill="#8a5a2b" style="animation-duration:1.03s;animation-delay:-0.13s"/>
+<circle class="dust" cx="1.6" cy="107.0" r="1.1" fill="#c2703d" style="animation-duration:1.47s;animation-delay:-0.55s"/>
+<circle class="dust" cx="-21.2" cy="94.3" r="1.8" fill="#e8a33d" style="animation-duration:1.98s;animation-delay:-0.41s"/>
+<circle class="dust" cx="31.5" cy="100.4" r="0.8" fill="#c2703d" style="animation-duration:1.46s;animation-delay:-1.89s"/>
+<circle class="dust" cx="-29.4" cy="93.2" r="1.4" fill="#8a5a2b" style="animation-duration:2.14s;animation-delay:-1.86s"/>
+<circle class="dust" cx="8.2" cy="92.6" r="1.4" fill="#c2703d" style="animation-duration:1.17s;animation-delay:-1.02s"/>
+<circle class="dust" cx="-28.3" cy="90.7" r="1.1" fill="#e8a33d" style="animation-duration:0.98s;animation-delay:-0.59s"/>
+<circle class="dust" cx="22.6" cy="87.3" r="1.4" fill="#8a5a2b" style="animation-duration:1.95s;animation-delay:-1.61s"/>
+<circle class="dust" cx="31.9" cy="101.4" r="1.4" fill="#e8a33d" style="animation-duration:1.73s;animation-delay:-1.36s"/>
+<circle class="dust" cx="15.2" cy="97.7" r="1.8" fill="#c2703d" style="animation-duration:2.12s;animation-delay:-1.74s"/>
+<circle class="dust" cx="-19.2" cy="95.0" r="0.8" fill="#e8a33d" style="animation-duration:1.57s;animation-delay:-1.74s"/>
+<circle class="dust" cx="20.2" cy="100.7" r="1.4" fill="#e8a33d" style="animation-duration:1.33s;animation-delay:-0.37s"/>
+<circle class="dust" cx="38.0" cy="86.3" r="1.8" fill="#e8a33d" style="animation-duration:1.44s;animation-delay:-0.08s"/>
+<circle class="dust" cx="-23.4" cy="94.5" r="1.8" fill="#e8a33d" style="animation-duration:1.67s;animation-delay:-0.73s"/>
+</g></g>
+</svg>
